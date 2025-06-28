@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "用户1",
+      "email": "user1@example.com",
+      "role": "admin",
+      "phone": "13800138000",
+      "description": "这是用户1的描述信息，角色为admin",
+      "createdAt": "2023-05-15T08:23:45.123Z",
+      "updatedAt": "2023-05-15T12:34:56.789Z"
+    },
+    {
+      "id": 2,
+      "name": "用户2",
+      "email": "user2@test.com",
+      "role": "editor",
+      "phone": "13900139000",
+      "description": "这是用户2的描述信息，角色为editor",
+      "createdAt": "2023-06-10T14:15:22.456Z",
+      "updatedAt": "2023-06-10T18:20:33.111Z"
+    },
+    {
+      "id": 3,
+      "name": "用户3",
+      "email": "user3@demo.com",
+      "role": "viewer",
+      "phone": "13700137000",
+      "description": "这是用户3的描述信息，角色为viewer",
+      "createdAt": "2023-07-05T09:45:12.789Z",
+      "updatedAt": "2023-07-05T11:22:33.444Z"
+    },
+    {
+      "id": 4,
+      "name": "用户4",
+      "email": "user4@mock.com",
+      "role": "admin",
+      "phone": "13600136000",
+      "description": "这是用户4的描述信息，角色为admin",
+      "createdAt": "2023-04-20T16:30:45.678Z",
+      "updatedAt": "2023-04-20T20:15:22.333Z"
+    },
+    {
+      "id": 5,
+      "name": "用户5",
+      "email": "user5@example.com",
+      "role": "editor",
+      "phone": "13500135000",
+      "description": "这是用户5的描述信息，角色为editor",
+      "createdAt": "2023-08-12T10:20:30.456Z",
+      "updatedAt": "2023-08-12T14:25:40.222Z"
+    }
+  ]
